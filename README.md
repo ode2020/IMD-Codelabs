@@ -2,15 +2,15 @@
 ## Intelligent Mobile Development course
 ### Week 2. Getting Started
 . Codelab 1: Android and Hello World <br>
-![Week2](Week2.PNG)
+![](Week2.png)
 
 ### Week 3. Layouts and Resources for UI
 . Codelab 1.2.PartA: My first interactive UI <br>
-![week3.1](Week3-Part1.JPG)
+![](Week3-Part1.jpg)
 
 
 .Codelab 1.2.PartB: The layout Editor <br>
-![Week3.2](Week3-Part2.JPG)
+![](Week3-Part2.jpg)
 
 
 ### Week 4. Activity and Intents
@@ -19,34 +19,34 @@
 
 ### Week 5. Implicit Intents
 . Codelab 2.3: Implicit Intents <br>
-![Week5](week5.PNG)
+![](week5.png)
 
 ### Week 6. User Interaction
 . Codelab 4.1: Clickable images <br>
-![Week6.1](week6-Part1.JPG)
+![](week6-Part1.jpg)
 
 . Codelab 4.2: Input Controls <br>
-![Week6.2](Week6-Part2.JPG)
+![](Week6-Part2.jpg)
 
 ### Week 7. User Interaction
 . Codelab 4.4: User Navigation <br>
-![week7.1](Week7-Part1.JPG)
+![](Week7-Part1.jpg)
 
 . Codelab 4.5: RecyclerView <br>
-![Week7.2](Week7-Part2.PNG)
+![](Week7-Part2.png)
 
 ### Week 8. Metrial Design
 . Codelab 5.2: Cards and Colors <br>
-![Week8](Week8.JPG)
+![](Week8.jpg)
 
 ### Week 9. Background Tasks
 . Codelab 7.2: AsyncTask and AsyncTaskLoader <br>
-![Week9](Week9.JPG)
+![](Week9.jpg)
 
 ### Week 10. Notifications
 . Codelab 8.1: Notifications <br>
-![Week10](Week10.JPG)
+![](Week10.jpg)
 
 ### Week 11. Shared Preferences
 . Codelab 9.1: Shared Preferences <br>
-![Week11](Week11.JPG)
+![](Week11.jpg)

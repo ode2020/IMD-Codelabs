@@ -1,7 +1,7 @@
 
 ## Intelligent Mobile Development course
 ### Week 2. Getting Started
-. Codelab 1: Android and Hello World <br>
+. Codelab 1.1: Android and Hello World <br>
 ![](Week2.png)
 
 ### Week 3. Layouts and Resources for UI

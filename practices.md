@@ -1,4 +1,4 @@
-## Intelligent Mobile Development course
+## 11 weeks practical exercises
 ### Week 2. Getting Started
 . Codelab 1.1: Android and Hello World <br>
 ![](Week2.png)

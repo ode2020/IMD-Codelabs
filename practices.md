@@ -1,4 +1,5 @@
 ## 11 weeks practical exercises
+This file contains all practices we have done during all 11 weeks of our codelab.
 ### Week 2. Getting Started
 . Codelab 1.1: Android and Hello World <br>
 ![](Week2.png)

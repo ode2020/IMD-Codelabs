@@ -17,6 +17,10 @@ The following are some of the features of the Visit Rwanda App: <br>
 - Offer to the user the ability to make payment(Future work) 
 - Other many more....
 
+----------------------------------------------------------
+-----------------------------------------------------------
+
+
 
 2. ## 11 weeks practical exercises
 This file contains all practices we have done during all 11 weeks of our codelab.

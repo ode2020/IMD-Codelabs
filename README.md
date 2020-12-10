@@ -1,12 +1,18 @@
 
 ## Intelligent Mobile Development course
-1. **Final Project Title: **Visit Rwanda App** <br>
+1. **Final Project: Visit Rwanda App**
+
 This Application will be developed for my country's tourism department owned by Rwanda Development Board (RDB).
 The Visit Rwanda App will be very useful to both the country and tourista who day to day need access to all tourism related information in an easy way.<br>
 Currently there is a website for tourism but there is no mobile app. <br> To develop this Application I will use Java on Android Studio IDE. <br>
 
 1.1. **Motivation** <br>
 The following reasons motivate me to develop the Visit Rwanda App: <br>
+-Clients cannot make any change to the booking they have already made from the website except using laptops <br>
+-Cilents do not always travel with laptops <br>
+-Tourist do not only to visit parks or water but also need to know other touristic areas on the same App <br>
+-It's quite impossible for clients to pay through Mobile Money when they use laptops
+-Ect .....
 
 
 

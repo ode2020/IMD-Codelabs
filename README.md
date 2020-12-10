@@ -2,22 +2,23 @@
 ## Intelligent Mobile Development course
 1. **Final Project: Visit Rwanda App**
 
-This Application will be developed for my country's tourism department owned by Rwanda Development Board (RDB).
+Visit Rwanda App will be a CRUD Application will be developed for my country's tourism department owned by Rwanda Development Board (RDB).
 The Visit Rwanda App will be very useful to both the country and tourista who day to day need access to all tourism related information in an easy way.<br>
 Currently there is a website for tourism but there is no mobile app. <br> To develop this Application I will use Java on Android Studio IDE. <br>
 
-1.1. **Motivation** <br>
-The following reasons motivate me to develop the Visit Rwanda App: <br>
--Clients cannot make any change to the booking they have already made from the website except using laptops <br>
--Cilents do not always travel with laptops <br>
--Tourist do not only to visit parks or water but also need to know other touristic areas on the same App <br>
--It's quite impossible for clients to pay through Mobile Money when they use laptops
--Ect .....
+1.1. **Features** <br>
+The following are some of the features of the Visit Rwanda App: <br>
+- Authenticate users through Sin Up and Sign In
+- View various touristic areas and urban areas 
+- Select an arear and do booking
+- Offer to the user the ability to make some changes to his/her booking if needed
+- Offer to the user the ability to delete/cancel his/her booking
+- Display the delete alert to the user before deleting the booking information
+- Offer to the user the ability to make payment(Future work) 
+- Other many more....
 
 
-
-
-> 11 weeks practical exercises
+2. ## 11 weeks practical exercises
 This file contains all practices we have done during all 11 weeks of our codelab.
 ### Week 2. Getting Started
 . Codelab 1.1: Android and Hello World <br>

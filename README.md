@@ -1,5 +1,12 @@
 
 ## Intelligent Mobile Development course
+### Part1. Description of the final project
+### Part2. The 11 week codelab exercises
+### Written by: Odette Muhayimana
+### Student Number: 2120196018
+
+----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 1. **Final Project: Visit Rwanda App**
 
 Visit Rwanda App will be a CRUD Application will be developed for my country's tourism department owned by Rwanda Development Board (RDB).

@@ -40,14 +40,16 @@ This file contains all practices we have done during all 11 weeks of our codelab
 
 ### Week 3. Layouts and Resources for UI
 . Codelab 1.2.PartA: My first interactive UI <br>
->This codelab aims to create a HelloToast App in a portrait setting. The app consists of two Buttons and one TextView, wherebyif the user taps the first button, it displays a short message (Toast) on the screen. <br> Tapping the secong Button increases the (click) counter displayed in the TextView starting from zero. <br>. UI elements have been constrained in order to have a nice design as shown on the screenshot above.
+>This codelab aims to create a HelloToast App in a portrait setting. The app consists of two Buttons and one TextView, wherebyif the user taps the first button, it displays a short message (Toast) on the screen.<br>
+>>- Tapping the secong Button increases the (click) counter displayed in the TextView starting from zero. <br>
+>>- UI elements have been constrained in order to have a nice design as shown on the screenshot above.
 ![](Week3-Part1.jpg)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 .Codelab 1.2.PartB: The layout Editor <br>
 > This pat B teaches us about creating the layout variant for horizontal (landscape) orientation and layout variant for tablets and larger displays.<br>
-Baseline constraints are used to align UI elements with text and pack and align button are used as well to align elements in the layout (Linear and Relative layout). <br>
+>Baseline constraints are used to align UI elements with text and pack and align button are used as well to align elements in the layout (Linear and Relative layout). <br>
 ![](Week3-Part2.jpg)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -62,21 +64,24 @@ Baseline constraints are used to align UI elements with text and pack and align 
 
 ### Week 5. Implicit Intents
 . Codelab 2.3: Implicit Intents <br>
->The week 5 codelab creates Implincit Intents App. The app contains 3 button options: Open Web, Open Location And Share this text. <br>
-The application uses an implicit intent to perform each of the above three options. <br> Then the intent receiver is created to accept an implicit intent then match the right URI protocol with the Host. <br>
+>- The week 5 codelab creates Implincit Intents App. The app contains 3 button options: Open Web, Open Location And Share this text. <br>
+>- The application uses an implicit intent to perform each of the above three options. <br>
+>- Then the intent receiver is created to accept an implicit intent then match the right URI protocol with the Host. <br>
 ![](week5.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Week 6. User Interaction
 . Codelab 4.1: Clickable images <br>
-> The week 6 codelab builds a Droid Cafe App. The app is built from the basic template activity. We created a clickable image with text decsribing what the image is about.<br>
-If the image is clicked, it displays a toast message telling the client the choice he made.<br>
-Then if the user wants to go to the new activity he taps the shopping cart icon.<br>
+> The week 6 codelab builds a Droid Cafe App. 
+>>- The app is built from the basic template activity. We created a clickable image with text decsribing what the image is about.<br>
+>>- If the image is clicked, it displays a toast message telling the client the choice he made.<br>
+>>- Then if the user wants to go to the new activity he taps the shopping cart icon.<br>
 ![](week6-Part1.jpg)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 . Codelab 4.2: Input Controls <br>
 > This codelab teaches about controlling the keyboard by specifying the input type so that the user does not input whatever type of input.
-The Droid Cafe App continues by including a second activity called OrderActivity.<br> On the OrderActivity, we added EditText for a person name, EditText for Address, an EditText for Phone number which will only allow a numerical keyboard to display and a multiline Text to allow the user input more lines of text as needed then comes the Group Radio Button that allow the user to make only one choice from the delivery methods. <br>
+>>- The Droid Cafe App continues by including a second activity called OrderActivity.<br>
+>>- On the OrderActivity, we added EditText for a person name, EditText for Address, an EditText for Phone number which will only allow a numerical keyboard to display and a multiline Text to allow the user input more lines of text as needed then comes the Group Radio Button that allow the user to make only one choice from the delivery methods. <br>
 ![](Week6-Part2.jpg)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 

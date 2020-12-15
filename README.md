@@ -9,9 +9,9 @@
 -----------------------------------------------------------------------------
 1. ## Final Project Description: Visit Rwanda App
 
-Visit Rwanda App is developed for my country's tourism department owned by Rwanda Development Board (RDB).
-The Visit Rwanda App will be very useful to both the country and tourists who day to day need access to all tourism related information in an easy way.<br>
-Currently there is a website for tourism but there is no mobile app. <br> To develop this Application I will use Java on Android Studio IDE. <br>
+This project aims to develop an android application for Rwandan tourism department owned by Rwanda Development Board (RDB).<br>
+In Rwanda and all over the world, technology is increasing rapidly and many people cannot imagine life without their mobile devices by their side. <br>Mobile devices play a very crucial role in every person’s daily life, among others, connecting and chatting with friends and families, access useful information from different corners of the world, doing business, searching for locations and all other kind of services. <br>
+Rwanda as other countries that are on the way to develop themselves, at some point needs to have an application for a particular kind of situation, but the such applications are still limited to a small number.This triggered me to develop an android application that will be used for helping clients to know everything related to tourism services offered in Rwanda, even for people residing out of the country who want to access the service using his/her own phone. 
 
 1.1. **Features** <br>
 The following are some of the features of the Visit Rwanda App: <br>

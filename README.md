@@ -50,8 +50,8 @@ This file contains all practices we have done during all 11 weeks of our codelab
 
 
 .Codelab 1.2.PartB: The layout Editor <br>
-> This pat B teaches us about creating the layout variant for horizontal (landscape) orientation and layout variant for tablets and larger displays.<br>
->Baseline constraints are used to align UI elements with text and pack and align button are used as well to align elements in the layout (Linear and Relative layout). <br>
+>- This pat B teaches us about creating the layout variant for horizontal (landscape) orientation and layout variant for tablets and larger displays.<br>
+>- Baseline constraints are used to align UI elements with text and pack and align button are used as well to align elements in the layout (Linear and Relative layout). <br>
 ![](Week3-Part2.jpg)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 

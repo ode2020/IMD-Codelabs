@@ -33,7 +33,7 @@ The following are some of the features of the Visit Rwanda App: <br>
 This file contains all practices we have done during all 11 weeks of our codelab.
 ### Week 2. Getting Started
 . Codelab 1.1: Android and Hello World <br> 
->Comment: This first program has a purpose to show that the Android studio has been successfully installed for the developer to start developing android Apps.
+>Comment: This first program has a purpose to show that the Android studio has been successfully installed for the developer to start developing android Apps.<br>
 ![](Week2.png)
 -----------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------

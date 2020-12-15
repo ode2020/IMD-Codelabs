@@ -82,14 +82,18 @@ The Droid Cafe App continues by including a second activity called OrderActivity
 
 ### Week 7. User Interaction
 . Codelab 4.4: User Navigation <br>
-> This is the last part of Doid Cafe App. We added the back arrow clickable icon which allows the user to navigate from the child activity (OrderActivity) to the parent activity (MainActivity). <br> I have also added a spinner drop-down list allowing the user to specify the type of the phone he has mentioned in the ordering information.<br>
+> This is the last part of Doid Cafe App.
+>> - We added the back arrow clickable icon which allows the user to navigate from the child activity (OrderActivity) to the parent activity (MainActivity<br>
+>> - I have also added a spinner drop-down list allowing the user to specify the type of the phone he has mentioned in the ordering information.<br>
+
 ![](Week7-Part1.jpg)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 . Codelab 4.5: RecyclerView <br>
 > The week 7 codelab is about creating a RecyclerView to display a long scrollable list of items(words in our example). RecyclerView is an important concept in nowadays because it does require to create a whole bunch of data set, it allows to initialize just a few items/words the recycle them. <br> 
-- In our case, this  Recyclerview App allows to tap a word then see it marked as *clicked*. <br>
-- Again, when we tap the Floating Action Button, a new word is added. <br>
+>>- In our case, this  Recyclerview App allows to tap a word then see it marked as *clicked*. <br>
+>>- Again, when we tap the Floating Action Button, a new word is added. <br>
+
 ![](Week7-Part2.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 

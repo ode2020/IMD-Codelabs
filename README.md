@@ -39,13 +39,16 @@ This file contains all practices we have done during all 11 weeks of our codelab
 
 ### Week 3. Layouts and Resources for UI
 . Codelab 1.2.PartA: My first interactive UI <br>
->This codelab aims to create a HelloToast App in a portrait setting. The app consists of two Buttons and one TextView, wherebyif the user tapes the first button, it displays a short message (Toast) on the screen. <br> Tapping the secong Button increases the (click) counter displayed in the TextView starting from zero. <br>
+>This codelab aims to create a HelloToast App in a portrait setting. The app consists of two Buttons and one TextView, wherebyif the user taps the first button, it displays a short message (Toast) on the screen. <br> Tapping the secong Button increases the (click) counter displayed in the TextView starting from zero. <br>. UI elements have been constrained in order to have a nice design as shown on the screenshot above.
 ![](Week3-Part1.jpg)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 .Codelab 1.2.PartB: The layout Editor <br>
+> This pat B teaches about creating the layout variant for horizontal (landscape) orientation and layout variant for tablets and larger displays.<br>
+Baseline constraints are used to align UI elements with text and pack and align button are used as well to align elements in the layout (Linear and Relative layout). <br>
 ![](Week3-Part2.jpg)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Week 4. Activity and Intents

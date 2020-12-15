@@ -104,11 +104,23 @@ This file contains all practices we have done during all 11 weeks of our codelab
 
 ### Week 8. Metrial Design
 . Codelab 5.2: Cards and Colors <br>
+> The MaterialMe app is developed<br>
+>>- From the mock sports-news app with very poor design, we created a delightful user experience by using Material Design features among others being:<br>
+>>- CardView which is a FrameLayout with some extra features (such as elevation and rounded corners) that gives a consistent look and nice design and amazing user experience. 
+>>- The Glide Library have been added to allow use background processing and other complex processing as well, to reduce the memory requirements of loading images <br>
 ![](Week8.jpg)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Week 9. Background Tasks
 . Codelab 7.2: AsyncTask and AsyncTaskLoader <br>
+> The WhoWroteIt App is created: <br>
+>>- The user inputs the name or a part of the name of the book in the EditText, they hit *Search button* which executes an AsyncTask.<br>
+>>- The AsyncTask queries the Google Books API to find the author and Title.<br>
+>>- The author and title are displayed as results in the EditText Below <br>
+>>- The AsyncTaskLoader is used to reimplement the same background task because it is the efficient way to update the UI and preserves data configuration <br>
+
 ![](Week9.jpg)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Week 10. Notifications
 . Codelab 8.1: Notifications <br>

@@ -75,7 +75,7 @@ Then if the user wants to go to the new activity he taps the shopping cart icon.
 
 . Codelab 4.2: Input Controls <br>
 > This codelab teaches about controlling the keyboard by specifying the input type so that the user does not input whatever type of input.
-The Droid Cafe App continues by including a second activity called OrderActivity.<br> on the OrderActivity, <br>
+The Droid Cafe App continues by including a second activity called OrderActivity.<br> On the OrderActivity, we added EditText for a person name, EditText for Address, an EditText for Phone number which will only allow a numerical keyboard to display and a multiline Text to allow the user input more lines of text as needed. <br>
 ![](Week6-Part2.jpg)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 

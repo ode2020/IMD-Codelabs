@@ -10,10 +10,12 @@
 1. ## Final Project Description: Visit Rwanda App
 
 This project aims to develop an android application for Rwandan tourism department owned by Rwanda Development Board (RDB).<br>
-In Rwanda and all over the world, technology is increasing rapidly and many people cannot imagine life without their mobile devices by their side. <br>Mobile devices play a very crucial role in every person’s daily life, among others, connecting and chatting with friends and families, access useful information from different corners of the world, doing business, searching for locations and all other kind of services. <br>
-Rwanda as other countries that are on the way to develop themselves, at some point needs to have an application for a particular kind of situation, but the such applications are still limited to a small number.This triggered me to develop an android application that will be used for helping clients to know everything related to tourism services offered in Rwanda, even for people residing out of the country who want to access the service using his/her own phone. 
+In Rwanda and all over the world, technology is increasing rapidly and many people cannot imagine life without their mobile devices. <br>Mobile devices play a very crucial role in every person’s daily life, among others, connecting and chatting with friends and families, access useful information from different corners of the world, doing business, searching for locations and all other kind of services. <br>
 
-1.1. **Features** <br>
+Rwanda as other countries that are on the way to develop themselves, at some point needs to have an application for a particular kind of situation, but the such applications are still limited to a small number.This triggered me to develop an android application that will be used for helping clients to know everything related to tourism services offered in Rwanda, even for people residing out of the country who want to access the service using his/her own phone.
+
+
+1.1. **Features of the Application** <br>
 The following are some of the features of the Visit Rwanda App: <br>
 - Authenticate clients through Sin Up and Sign In
 - View various touristic areas and urban areas 

@@ -40,8 +40,8 @@ This file contains all practices we have done during all 11 weeks of our codelab
 ### Week 3. Layouts and Resources for UI
 . Codelab 1.2.PartA: My first interactive UI <br>
 >This codelab aims to create a HelloToast App in a portrait setting. The app consists of two Buttons and one TextView, wherebyif the user tapes the first button, it displays a short message (Toast) on the screen. <br> Tapping the secong Button increases the (click) counter displayed in the TextView starting from zero. <br>
-----------------------------------------------------------------------------------------------------------------------------------------------
 ![](Week3-Part1.jpg)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 .Codelab 1.2.PartB: The layout Editor <br>

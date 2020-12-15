@@ -105,7 +105,7 @@ This file contains all practices we have done during all 11 weeks of our codelab
 ### Week 8. Metrial Design
 . Codelab 5.2: Cards and Colors <br>
 > The MaterialMe app is developed<br>
->>- From the mock sports-news app with very poor design, we created a delightful user experience by using Material Design features among others being:<br>
+> From the mock sports-news app with very poor design, we created a delightful user experience by using Material Design features among others being:<br>
 >>- CardView which is a FrameLayout with some extra features (such as elevation and rounded corners) that gives a consistent look and nice design and amazing user experience. 
 >>- The Glide Library have been added to allow use background processing and other complex processing as well, to reduce the memory requirements of loading images <br>
 ![](Week8.jpg)
@@ -124,9 +124,18 @@ This file contains all practices we have done during all 11 weeks of our codelab
 
 ### Week 10. Notifications
 . Codelab 8.1: Notifications <br>
+> Notify Me App is created.<br>
+>> This App aims to let users trigger, update and cancel notification using the buttons showns in the screenshot<br>
+
 ![](Week10.jpg)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Week 11. Shared Preferences
 . Codelab 9.1: Shared Preferences <br>
+> HelloSharedPrefereces App is created.<br>
+>HelloSharedPreferences App is another variation of HelloToast App that we have created in lesson 1.<br>
+>>- The App inlucdes buttons to increment the number, to change the backgroud color and to reset both the number and color to their defaults. <br>
+>>- Themes and styles are used to define the buttons <br>
+
 ![](Week11.jpg)
 

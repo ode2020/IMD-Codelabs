@@ -61,8 +61,10 @@ Baseline constraints are used to align UI elements with text and pack and align 
 
 ### Week 5. Implicit Intents
 . Codelab 2.3: Implicit Intents <br>
+>The week 5 codelab creates Implincit Intents App. The app contains 3 button options: Open Web, Open Location And Share this text. <br>
+The application uses an implicit intent to perform each of the above three options. <br> Then the intent receiver is created to accept an implicit intent in order to match the right URI protocol with the Host. <br>
 ![](week5.png)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Week 6. User Interaction
 . Codelab 4.1: Clickable images <br>
 ![](week6-Part1.jpg)

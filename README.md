@@ -20,6 +20,7 @@ The following are some of the features of the Visit Rwanda App: <br>
 - Select an arear and do the booking
 - Insert clients information
 - View the booking list
+- Search by id or name from the booking list
 - Update the booking information
 - Delete/cancel the booking
 - Display the delete alert to the client before deleting/canceling his booking information

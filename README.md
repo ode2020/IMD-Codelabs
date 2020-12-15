@@ -15,13 +15,14 @@ Currently there is a website for tourism but there is no mobile app. <br> To dev
 
 1.1. **Features** <br>
 The following are some of the features of the Visit Rwanda App: <br>
-- Authenticate users through Sin Up and Sign In
+- Authenticate clients through Sin Up and Sign In
 - View various touristic areas and urban areas 
-- Select an arear and do booking
-- Offer to the user the ability to make some changes to his/her booking if needed
-- Offer to the user the ability to delete/cancel his/her booking
-- Display the delete alert to the user before deleting the booking information
-- Offer to the user the ability to make payment(Future work) 
+- Select an arear and do the booking
+- Insert clients information
+- View the booking list
+- Update the booking information
+- Delete/cancel the booking
+- Display the delete alert to the client before deleting/canceling his booking information
 - Other many more....
 
 ----------------------------------------------------------
@@ -75,13 +76,15 @@ Then if the user wants to go to the new activity he taps the shopping cart icon.
 
 . Codelab 4.2: Input Controls <br>
 > This codelab teaches about controlling the keyboard by specifying the input type so that the user does not input whatever type of input.
-The Droid Cafe App continues by including a second activity called OrderActivity.<br> On the OrderActivity, we added EditText for a person name, EditText for Address, an EditText for Phone number which will only allow a numerical keyboard to display and a multiline Text to allow the user input more lines of text as needed. <br>
+The Droid Cafe App continues by including a second activity called OrderActivity.<br> On the OrderActivity, we added EditText for a person name, EditText for Address, an EditText for Phone number which will only allow a numerical keyboard to display and a multiline Text to allow the user input more lines of text as needed then comes the Group Radio Button that allow the user to make only one choice from the delivery methods. <br>
 ![](Week6-Part2.jpg)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Week 7. User Interaction
 . Codelab 4.4: User Navigation <br>
+> This is the last part of Doid Cafe App. We added the back arrow clickable icon which allows the user to navigate from the child activity (OrderActivity) to the parent activity (MainActivity). <br> I have also added a spinner drop-down list allowing the user to specify the type of the phone he has mentioned in the ordering information.<br>
 ![](Week7-Part1.jpg)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 . Codelab 4.5: RecyclerView <br>
 ![](Week7-Part2.png)

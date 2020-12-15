@@ -7,7 +7,7 @@
 
 ----------------------------------------------------------------------------
 -----------------------------------------------------------------------------
-1. **Final Project: Visit Rwanda App**
+1. **Final Project Description: Visit Rwanda App**
 
 Visit Rwanda App is developed for my country's tourism department owned by Rwanda Development Board (RDB).
 The Visit Rwanda App will be very useful to both the country and tourists who day to day need access to all tourism related information in an easy way.<br>

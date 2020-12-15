@@ -97,7 +97,7 @@ This file contains all practices we have done during all 11 weeks of our codelab
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 . Codelab 4.5: RecyclerView <br>
-> The week 7 codelab is about creating a RecyclerView to display a long scrollable list of items(words in our example). RecyclerView is an important concept in nowadays because it does require to create a whole bunch of data set, it allows to initialize just a few items/words the recycle them. <br> 
+> The RecyclerView App is created to display a long scrollable list of items(words in our example). RecyclerView is an important concept in nowadays because it does require to create a whole bunch of data set, it allows to initialize just a few items/words the recycle them. <br> 
 >>- In our case, this  Recyclerview App allows to tap a word then see it marked as *clicked*. <br>
 >>- Again, when we tap the Floating Action Button, a new word is added. <br>
 

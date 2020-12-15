@@ -54,8 +54,8 @@ Baseline constraints are used to align UI elements with text and pack and align 
 ### Week 4. Activity and Intents
 . Codelab 2.1: Activity and Intents <br>
 > The week 4 codelab taught us how to create a new activity other than MainActivity, to define parent and child activities for up navigation how both activities exchange messages using an explicit Intent:<br>
->>Main activity is created with a Button SEND and the EditText is also added. When the Button is clicked, the main activity uses an intent to start the second activity which displays a message received from the Main Activity<br>
->> Then EditText and Button Reply are added to the second activity. If the user types in a message and press Reply Button, the reply message is sent back to the Main Activity using an Intent. <br>
+>> - Main activity is created with a Button SEND and the EditText is also added. When the Button is clicked, the main activity uses an intent to start the second activity which displays a message received from the Main Activity<br>
+>> - Then EditText and Button Reply are added to the second activity. If the user types in a message and press Reply Button, the reply message is sent back to the Main Activity using an Intent. <br>
 ![Week4](week4.jpg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 

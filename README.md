@@ -45,7 +45,7 @@ This file contains all practices we have done during all 11 weeks of our codelab
 
 
 .Codelab 1.2.PartB: The layout Editor <br>
-> This pat B teaches about creating the layout variant for horizontal (landscape) orientation and layout variant for tablets and larger displays.<br>
+> This pat B teaches us about creating the layout variant for horizontal (landscape) orientation and layout variant for tablets and larger displays.<br>
 Baseline constraints are used to align UI elements with text and pack and align button are used as well to align elements in the layout (Linear and Relative layout). <br>
 ![](Week3-Part2.jpg)
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -53,7 +53,11 @@ Baseline constraints are used to align UI elements with text and pack and align 
 
 ### Week 4. Activity and Intents
 . Codelab 2.1: Activity and Intents <br>
+> The week 4 codelab taught us how to create a new activity other than MainActivity, to define parent and child activities for up navigation how both activities exchange messages using an explicit Intent:<br>
+1. Main activity is created with a Button SEND and the EditText is also added. When the Button is clicked, the main activity uses an intent to start the second activity which displays a message received from the Main Activity<br>
+2. Then EditText and Button Reply are added to the second activity. If the user types in a message and press Reply Button, the reply message is sent back to the Main Activity using an Intent. <br>
 ![Week4](week4.jpg)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Week 5. Implicit Intents
 . Codelab 2.3: Implicit Intents <br>
